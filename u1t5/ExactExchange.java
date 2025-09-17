@@ -3,7 +3,6 @@ package u1t5;
 import java.util.Scanner;
 
 public class ExactExchange {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter your money in cents: ");

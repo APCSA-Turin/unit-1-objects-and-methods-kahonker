@@ -1,4 +1,4 @@
-package U1L2;
+package u1t2;
 import java.util.Scanner;
 
 /* Alexey Khoroshenkiy 

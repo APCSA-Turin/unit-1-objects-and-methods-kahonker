@@ -1,4 +1,4 @@
-package u1l4;
+package u1t4;
 
 import java.util.Scanner;
 
@@ -11,5 +11,6 @@ public class Problem3 {
         int modHundred = ((num % 100) - modTen) / 10;
         int modThousand = ((num % 1000) - modHundred - modTen) / 100;
         System.out.println("The reverse of " + num + " is " + modTen + modHundred + modThousand);
+        scanner.close();
     }
 }

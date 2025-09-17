@@ -1,4 +1,4 @@
-package U1L2;
+package u1t2;
 
 public class DebugMe {
    public static void main(String[] args) {

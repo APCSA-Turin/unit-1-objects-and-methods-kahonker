@@ -1,4 +1,4 @@
-package u1l4;
+package u1t4;
 
 import java.util.Scanner;
 
@@ -25,6 +25,6 @@ public class Problem2 {
         else{
             System.out.println("The numbers are equal!");
         }
-
+        scanner.close();
     }
 }

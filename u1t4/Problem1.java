@@ -1,4 +1,4 @@
-package u1l4;
+package u1t4;
 
 import java.util.Scanner;
 
